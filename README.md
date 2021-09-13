@@ -25,6 +25,7 @@ Overall, the school summary is not significantly affected aside from Thomas High
 
 ###### New School Summary: Thomas High School
 <img width="967" alt="THS_School_Summary_new" src="https://user-images.githubusercontent.com/88520573/133019936-417074ca-e2c1-4269-aa36-46c4987d33c9.png">
+
 ###### Original School Summary: Thomas High School
 <img width="978" alt="THS_School Summary_Orig" src="https://user-images.githubusercontent.com/88520573/133019913-a741f5f1-8b31-47cd-896f-a36abeaede43.png">
 
